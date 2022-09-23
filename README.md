@@ -1,4 +1,4 @@
-# ferranminero.github.io
+# https://ferranminero.github.io
 
 Personal website curriculum vitae
 
