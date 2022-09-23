@@ -4,4 +4,4 @@ Personal website curriculum vitae
 
 - https://www.linkedin.com/in/ferran-minero/ LinkedIn
   
-- https://dibesfer.comdibesfer</a> art website
+- https://dibesfer.com dibesfer art website
